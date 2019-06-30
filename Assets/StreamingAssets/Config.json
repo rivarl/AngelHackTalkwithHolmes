@@ -1,0 +1,24 @@
+{
+    "m_ClassifierDirectory": "Watson/Scripts/Editor/Classifiers/",
+    "m_TimeOut": 30.0,
+    "m_MaxRestConnections": 5,
+    "m_Credentials": [
+        {
+            "m_ServiceID": "TextToSpeechV1",
+            "m_URL": "https://gateway-tok.watsonplatform.net/text-to-speech/api",
+            "m_User": null,
+            "m_Password": null,
+            "m_Apikey": "faxxzJeK8xsBVh_icIWb0Ck034CpX7_X0k6kYpSZgGDu",
+            "m_Note": null
+        },
+        {
+            "m_ServiceID": "SpeechToTextV1",
+            "m_URL": "https://stream.watsonplatform.net/speech-to-text/api",
+            "m_User": null,
+            "m_Password": null,
+            "m_Apikey": "fImXLtFWo5aF19kx7G7sVGlXuHgWMaNuZ4JmesSMRRsh",
+            "m_Note": null
+        }
+    ],
+    "m_Variables": []
+}
