@@ -3,3 +3,5 @@ AngelHack2019
 
 VLEAP.によるAngelHackTokyo2019の成果物です．
 自然災害に見舞われた被災者のアフターフォローを行うためのVRストレス軽減chatbotサービスです．
+
+Developの方にプロジェクトが入っているので確認くださいませ
