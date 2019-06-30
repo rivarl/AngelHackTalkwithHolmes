@@ -1,2 +1,5 @@
 # AngelHackTalkwithHolmes
 AngelHack2019
+
+VLEAp.によるAngelHackTokyo2019の成果物です．
+自然災害に見舞われた被災者のアフターフォローを支援するためのVRストレス軽減サービスです．
